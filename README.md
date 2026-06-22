@@ -1,8 +1,9 @@
-# Actividad5-Customer-Churn-MLflow_Gustavo-_Marin
+
+# Actividad 5 - Customer Churn con MLflow
 
 ## Descripción del proyecto
 
-Este proyecto tiene como objetivo entrenar y comparar modelos de aprendizaje automático para predecir el abandono de clientes, utilizando el dataset Telco Customer Churn.
+Este proyecto tiene como objetivo entrenar y comparar modelos de aprendizaje automático para predecir el abandono de clientes utilizando el dataset Telco Customer Churn.
 
 El caso de estudio fue seleccionado porque representa un problema común en las organizaciones: identificar qué clientes tienen mayor probabilidad de abandonar un servicio. Esto permite tomar decisiones preventivas y diseñar estrategias de retención.
 
